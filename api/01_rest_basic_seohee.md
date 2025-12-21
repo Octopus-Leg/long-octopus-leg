@@ -1,4 +1,4 @@
-# 1.RESTful 웹 서비스 기본사항
+# 1. RESTful 웹 서비스 기본사항
 
 ## 1️⃣ REST API 소개
 
