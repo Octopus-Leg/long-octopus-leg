@@ -16,7 +16,7 @@ Chapter11 디렉터리 아래에는 세 개의 프로젝트가 포함됨.
 
 ### gRPC 서버, 클라이언트 프로젝트 생성
 
-Spring Initialzr(https://start.spring.io/ )에서 다음 옵션으로 프로젝트를 생성함.
+Spring Initializr(https://start.spring.io/ )에서 다음 옵션으로 프로젝트를 생성함.
 
 | 항목 | 값 | 항목 | 값 |
 |------|---|------|---|
