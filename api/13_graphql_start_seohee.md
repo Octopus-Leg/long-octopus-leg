@@ -1,4 +1,4 @@
-# 13.GraphQL 시작하기
+# 13. GraphQL 시작하기
 
 ## 1️⃣ GraphQL 알아보기
 - **GraphQL**은 선언적 쿼리이자 API용 조작 언어이며 서버-사이드 런타임임.
