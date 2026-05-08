@@ -166,7 +166,7 @@
 ### GraphQL 쿼리 테스트
 - **실행 및 검증**: `dgsQueryExecutor.executeAndExtractJsonPath()`를 사용하여 쿼리를 실행하고 결과값의 특정 경로를 **JsonPath**로 추출함.
 - **예외 테스트**: 존재하지 않는 ID 조회 시 발생하는 예외 상황을 스텁으로 정의하고, `ExecutionResult` 내의 에러 메시지가 예상과 일치하는지 `assertThat`으로 검증함.
-- **유형 안전성**: **DGS*- 플러그인에 의해 자동 생성된 `GraphQLQueryRequest`와 `ProjectionRoot`를 사용하면 문자열 쿼리 작성 시 발생할 수 있는 오타를 방지하고 유형 안전하게 테스트 코드를 작성할 수 있음.
+- **유형 안전성**: **DGS** 플러그인에 의해 자동 생성된 `GraphQLQueryRequest`와 `ProjectionRoot`를 사용하면 문자열 쿼리 작성 시 발생할 수 있는 오타를 방지하고 유형 안전하게 테스트 코드를 작성할 수 있음.
 
 ### GraphQL 뮤테이션 테스트
 - **상태 변경 검증**: 쿼리 테스트와 동일한 방식으로 진행되나, 데이터 변경 후 반환된 객체의 필드값이나 상태가 올바르게 업데이트되었는지 확인함.
