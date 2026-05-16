@@ -2,13 +2,13 @@
 
 ## 목차
 
-- [x] [데이터베이스의 기본](https://github.com/2025-cs-study/2025-CS-Study/blob/main/database/4.1_database_basic.md)
-- [x] [ERD와 정규화 과정](https://github.com/2025-cs-study/2025-CS-Study/blob/main/database/4.2_ERD%26normalization.md)
-- [x] [트랙잭션과 무결성](https://github.com/2025-cs-study/2025-CS-Study/blob/main/database/4.3_transaction_and_integrity.md)
-- [x] [데이터베이스의 종류](https://github.com/2025-cs-study/2025-CS-Study/blob/main/database/4.4_types_of_databases.md)
-- [x] [인덱스](https://github.com/2025-cs-study/2025-CS-Study/blob/main/database/4.5_index.md)
-- [x] [조인의 종류](https://github.com/2025-cs-study/2025-CS-Study/blob/main/database/4.6_types_of_joins.md)
-- [x] [조인의 원리](https://github.com/2025-cs-study/2025-CS-Study/blob/main/database/4.7_principles_of_join.md)
+- [x] [데이터베이스의 기본](./4.1_database_basic.md)
+- [x] [ERD와 정규화 과정](./4.2_ERD%26normalization.md)
+- [x] [트랙잭션과 무결성](./4.3_transaction_and_integrity.md)
+- [x] [데이터베이스의 종류](./4.4_types_of_databases.md)
+- [x] [인덱스](./4.5_index.md)
+- [x] [조인의 종류](./4.6_types_of_joins.md)
+- [x] [조인의 원리](./4.7_principles_of_join.md)
 
 ## 면접 예상 질문
 - 정규화에 대해 설명해주세요.(제1정규형 ~ BCNF정규형)

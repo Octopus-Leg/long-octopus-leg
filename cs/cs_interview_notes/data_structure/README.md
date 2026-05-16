@@ -2,9 +2,9 @@
 
 ## 목차
 
-- [x] [복잡도](https://github.com/2025-cs-study/2025-CS-Study/blob/main/datastructure/5.1_complexity.md)
-- [x] [선형 자료 구조](https://github.com/2025-cs-study/2025-CS-Study/blob/main/datastructure/5.2_linear_data_structure.md)
-- [x] [비선형 자료 구조](https://github.com/2025-cs-study/2025-CS-Study/blob/main/datastructure/5.3_non_linear_data_structure.md)
+- [x] [복잡도](./5.1_complexity.md)
+- [x] [선형 자료 구조](./5.2_linear_data_structure.md)
+- [x] [비선형 자료 구조](./5.3_non_linear_data_structure.md)
 
 ## 면접 예상 질문
 - Array(List)의 가장 큰 특징과 그로 인해 발생하는 장단점에 대해 설명해주세요.
